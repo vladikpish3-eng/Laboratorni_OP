@@ -1,6 +1,6 @@
-`use strict`
+'use strict'
 
-const array = [true, 'hello', 5, 12, -200, false, 'larp', 15, 'word' ,'W.W.','9']
+const array = [true, 'hello', 5, 12, -200, false, 15, 'word' ,'W.W.','9']
 
 const hash = { number: 0, string: 0, boolean: 0 };
 
